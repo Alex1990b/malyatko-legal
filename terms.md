@@ -101,4 +101,4 @@ Continued use of the app after changes are published constitutes acceptance of t
 
 ## Contact
 
-If you have any questions about these Terms & Conditions, please contact us: **support@maliatko.app**
+If you have any questions about these Terms & Conditions, please contact us: **support@malyatko.app**
