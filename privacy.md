@@ -1,10 +1,10 @@
-# Privacy Policy for “Maliatko”
+# Privacy Policy for “Malyatko”
 
 _Last updated: February 1, 2026_
 
 ## Introduction
 
-“Maliatko” (“we”, “us”, “our”) is a mobile application designed to help parents and caregivers track and organize information related to their child’s daily activities, development, and routines.
+“Malyatko” (“we”, “us”, “our”) is a mobile application designed to help parents and caregivers track and organize information related to their child’s daily activities, development, and routines.
 
 We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how information is collected, used, and handled when you use the app.
 
