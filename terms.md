@@ -1,10 +1,10 @@
-# Terms & Conditions for “Maliatko”
+# Terms & Conditions for “Malyatko”
 
 _Last updated: February 1, 2026_
 
 ## Acceptance of Terms
 
-By downloading, installing, or using the “Maliatko” mobile application (“the app”), you agree to be bound by these Terms & Conditions.  
+By downloading, installing, or using the “Malyatko” mobile application (“the app”), you agree to be bound by these Terms & Conditions.  
 If you do not agree with these terms, please do not use the app.
 
 These Terms apply to all users, regardless of the app language.
@@ -13,11 +13,11 @@ These Terms apply to all users, regardless of the app language.
 
 ## Purpose of the App
 
-“Maliatko” is designed to help parents and caregivers organize and track child-related information entered by the user.
+“Malyatko” is designed to help parents and caregivers organize and track child-related information entered by the user.
 
 ### Medical Disclaimer
 
-“Maliatko” **does not provide medical advice** and is **not a medical device**.  
+“Malyatko” **does not provide medical advice** and is **not a medical device**.  
 All information displayed or stored in the app is for **informational and organizational purposes only**.
 
 Always consult a qualified healthcare professional regarding your child’s health.  
