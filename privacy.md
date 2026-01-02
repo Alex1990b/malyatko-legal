@@ -79,7 +79,7 @@ You may:
 
 ## Children’s Privacy
 
-“Maliatko” is intended to be used by **parents or legal guardians**.  
+“Malyatko” is intended to be used by **parents or legal guardians**.  
 We do not knowingly collect personal data directly from children.
 
 ---
@@ -101,4 +101,4 @@ Any changes will be posted on this page with an updated revision date.
 
 ## Contact Us
 
-If you have questions about this Privacy Policy, please contact us: **support@maliatko.app**
+If you have questions about this Privacy Policy, please contact us: **support@malyatko.app**
