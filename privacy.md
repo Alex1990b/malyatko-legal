@@ -101,4 +101,4 @@ Any changes will be posted on this page with an updated revision date.
 
 ## Contact Us
 
-If you have questions about this Privacy Policy, please contact us: **support@malyatko.app**
+If you have questions about this Privacy Policy, please contact us: **malyatkoapp@gmail.com**
