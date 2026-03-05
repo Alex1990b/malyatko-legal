@@ -1,6 +1,6 @@
 # Privacy Policy for “Malyatko”
 
-_Last updated: February 1, 2026_
+_Last updated: March 5, 2026_
 
 ## Introduction
 
@@ -28,7 +28,7 @@ All such data is created and controlled by you.
 
 ### Analytics Data
 
-We use **Firebase Analytics** to collect **anonymous usage analytics**, including:
+We use **Firebase Analytics** and **Meta App Events** to collect **anonymous usage analytics**, including:
 
 - App feature usage
 - Screen views
@@ -89,6 +89,7 @@ We do not knowingly collect personal data directly from children.
 The app uses the following third-party service:
 
 - **Firebase Analytics (Google)** — anonymous usage analytics only
+- **Meta App Events (Meta Platforms, Inc.)** — app usage and install measurement for advertising analytics
 
 ---
 
